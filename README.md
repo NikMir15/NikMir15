@@ -15,6 +15,6 @@ I build cloud-ready systems with IaC, containers, CI/CD, and clean backend desig
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/nikunjmirajkar/
-- Email: nikunjmirajkar15@gmail.com
+- Email: nikunjmir1506@gmail.com
 
 ✅ Open to Junior / Graduate roles in the UK: Cloud • DevOps • Platform
