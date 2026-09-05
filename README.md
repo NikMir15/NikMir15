@@ -164,7 +164,7 @@ My focus is on understanding not only how applications are built, but also how t
 
 **LinkedIn:** [linkedin.com/in/nikunjmirajkar](https://www.linkedin.com/in/nikunjmirajkar/)
 
-**Portfolio:** [nikunjmirkar.com](https://nikunjmirkar.com/)
+**Portfolio:** [nikunjmirkar.com](https://nikunjmirajkar.com/)
 
 **Email:** [nikunjmir1506@gmail.com](mailto:nikunjmir1506@gmail.com)
 
