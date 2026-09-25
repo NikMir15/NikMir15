@@ -1,10 +1,12 @@
 # Hi, I'm Nikunj Mirajkar
 
-### Cloud & Platform Engineer | AWS | Terraform | Docker | Kubernetes | CI/CD | Linux
+### Cloud, Platform & Data Engineer | AWS | Terraform | Docker | Kubernetes | Python | SQL | Analytics
 
-I build and automate cloud-native infrastructure and platforms with a focus on **reliability, scalability, security, and operational efficiency**.
+I build and automate cloud-native infrastructure, data platforms and backend systems with a focus on **reliability, scalability, automation, data-driven decision-making and operational efficiency**.
 
-My work spans **Infrastructure as Code, containerisation, CI/CD automation, Linux systems, cloud networking, backend services, databases, and cloud-native architecture**.
+My work spans **cloud infrastructure, Infrastructure as Code, containers, CI/CD, Linux systems, networking, backend development, databases, data analytics and business intelligence**.
+
+I’m particularly interested in the intersection of **Cloud Engineering, Data Engineering and Business Analytics** — building systems that not only run reliably, but also generate useful insights from data.
 
 ---
 
@@ -12,37 +14,60 @@ My work spans **Infrastructure as Code, containerisation, CI/CD automation, Linu
 
 ### Cloud & Infrastructure
 
-* AWS — VPC, EC2, ALB, ECS
-* Azure — Azure Fundamentals Certified
-* Terraform — Infrastructure as Code
-* Linux & Networking
+- AWS — VPC, EC2, ALB, ECS, IAM, CloudWatch
+- Azure — Azure Fundamentals Certified
+- Terraform — Infrastructure as Code
+- Linux
+- Networking — TCP/IP, DNS, NAT, VPCs, Security Groups
 
 ### Containers & Platform Engineering
 
-* Docker
-* Kubernetes
-* Nginx
-* Containerised application architecture
+- Docker
+- Docker Compose
+- Kubernetes
+- Nginx
+- Containerised application architecture
 
 ### DevOps & Automation
 
-* GitHub Actions
-* CI/CD pipelines
-* Infrastructure automation
-* Git & GitHub
+- GitHub Actions
+- CI/CD pipelines
+- Infrastructure automation
+- Git & GitHub
+- Cloud deployment workflows
+- Monitoring and observability
 
-### Development
+### Programming & Backend
 
-* Python
-* FastAPI
-* REST APIs
-* JWT Authentication
+- Python
+- FastAPI
+- REST APIs
+- WebSockets
+- JWT Authentication
+- Bash
 
-### Data & Backend
+### Data & Analytics
 
-* PostgreSQL
-* MySQL
-* PostGIS
+- SQL
+- PostgreSQL
+- MySQL
+- PostGIS
+- Python data analysis
+- Data cleaning and transformation
+- Exploratory Data Analysis
+- KPI analysis
+- Business reporting
+- Data visualisation
+
+### Currently Expanding
+
+- Power BI
+- Advanced SQL
+- Pandas
+- Business Analytics
+- Cloud Data Engineering
+- ETL / ELT pipelines
+- Data warehousing concepts
 
 ---
 
@@ -52,105 +77,136 @@ My work spans **Infrastructure as Code, containerisation, CI/CD automation, Linu
 
 A cloud-native platform for monitoring, analysing and visualising infrastructure using geospatial data.
 
-**Technologies:** Python • FastAPI • PostgreSQL • PostGIS • Docker • Leaflet
+**Technologies:** Python • FastAPI • PostgreSQL • PostGIS • Docker • Kubernetes • Leaflet
 
 **Highlights:**
 
-* REST APIs for infrastructure locations and analytics
-* PostGIS-powered spatial queries
-* Nearest infrastructure analysis
-* Geospatial visualisation
-* Dockerised multi-service architecture
-* Infrastructure analytics and monitoring
+- REST APIs for infrastructure locations and analytics
+- PostGIS-powered spatial queries
+- Nearest-infrastructure analysis
+- Interactive geospatial visualisation
+- Dockerised multi-service architecture
+- Kubernetes-based deployment
+- Infrastructure analytics and monitoring
+- Real-time location updates through WebSockets
 
-**Focus:** Cloud-native systems • Infrastructure monitoring • Geospatial analytics • APIs
+**Focus:** Cloud-native systems • Geospatial analytics • Infrastructure monitoring • APIs • Data engineering
 
 ---
 
 ### 2. Cloud-Native Microservices Platform
 
-A containerised microservices platform designed around independent backend services, API gateway architecture, authentication and automated deployment.
+A containerised microservices platform designed around independent backend services, cloud infrastructure, authentication and automated deployment.
 
-**Technologies:** Python • FastAPI • Docker • Nginx • AWS • GitHub Actions
+**Technologies:** Python • FastAPI • Docker • AWS ECS • ECR • ALB • GitHub Actions
 
 **Highlights:**
 
-* Containerised services
-* Nginx gateway
-* JWT authentication
-* REST APIs
-* Service-oriented architecture
-* CI/CD automation
-* AWS deployment architecture
+- Containerised microservices
+- REST API architecture
+- Authentication and service communication
+- Docker-based application packaging
+- CI/CD automation
+- AWS ECS deployment
+- Application load balancing
+- Cloud-native deployment architecture
 
-**Focus:** Microservices • Containers • Cloud deployment • CI/CD
+**Focus:** Microservices • AWS • Containers • Cloud deployment • CI/CD
 
 ---
 
 ### 3. Terraform AWS Infrastructure
 
-Infrastructure-as-Code project for provisioning and managing AWS infrastructure using Terraform.
+Infrastructure-as-Code project for provisioning secure and reproducible AWS infrastructure using Terraform.
 
-**Technologies:** Terraform • AWS VPC • EC2 • Nginx • Linux • Networking
+**Technologies:** Terraform • AWS VPC • EC2 • Security Groups • Nginx • Linux
 
 **Highlights:**
 
-* AWS VPC provisioning
-* Network configuration
-* EC2 infrastructure
-* Security controls
-* IP-restricted SSH access
-* Nginx deployment
-* Reproducible infrastructure through Terraform
+- Automated AWS VPC provisioning
+- Subnet and networking configuration
+- EC2 infrastructure deployment
+- Security-group configuration
+- IP-restricted SSH access
+- Nginx deployment
+- Reusable and reproducible infrastructure
 
-**Focus:** AWS • Infrastructure as Code • Cloud networking • Infrastructure security
+**Focus:** AWS • Infrastructure as Code • Networking • Infrastructure security
 
 ---
 
 ### 4. Personal Finance Tracking & Budgeting Platform
 
-A cloud-native personal finance platform developed as part of my MSc project, combining document processing, financial data management and containerised deployment.
+A cloud-native finance platform developed as part of my MSc project, combining document processing, financial data management, analytics and containerised deployment.
 
-**Technologies:** Python • FastAPI • Tesseract OCR • Docker • Kubernetes • PostgreSQL • CI/CD
+**Technologies:** Python • FastAPI • Tesseract OCR • PostgreSQL • Docker • Kubernetes • CI/CD
 
 **Highlights:**
 
-* Receipt and document OCR processing
-* Financial data extraction
-* Multi-currency support
-* REST API architecture
-* Docker containerisation
-* Kubernetes deployment
-* CI/CD automation
+- Receipt and document OCR processing
+- Financial data extraction and storage
+- Multi-currency support
+- REST API architecture
+- PostgreSQL data management
+- Docker containerisation
+- Kubernetes deployment
+- CI/CD automation
 
-**Focus:** Cloud-native applications • Kubernetes • Automation • Data processing
+**Focus:** Cloud-native applications • Data processing • Kubernetes • Automation • Financial analytics
 
 ---
 
-## Engineering Interests
+## Data & Business Analytics Projects
 
-* Cloud Infrastructure
-* Platform Engineering
-* DevOps & Automation
-* Site Reliability Engineering
-* Infrastructure as Code
-* Kubernetes & Container Platforms
-* Cloud Security
-* Observability
-* Distributed Systems
-* Cloud-native Architecture
-* Infrastructure Monitoring
-* Geospatial Computing
+I’m expanding my portfolio with projects focused on turning raw data into measurable business insights.
+
+Areas I’m currently developing include:
+
+- Retail sales analytics
+- Customer behaviour and segmentation
+- Operational performance analysis
+- Supply-chain and warehouse analytics
+- KPI dashboards
+- Revenue and profitability analysis
+- SQL business analysis
+- Cloud-hosted analytics pipelines
+
+Future portfolio architecture:
+
+**Raw Data → Python / SQL → Data Transformation → Cloud Storage / Database → Analytics → Dashboard → Business Recommendations**
+
+---
+
+## Engineering & Analytics Interests
+
+- Cloud Infrastructure
+- Platform Engineering
+- DevOps & Automation
+- Data Analytics
+- Business Analytics
+- Cloud Data Engineering
+- Site Reliability Engineering
+- Infrastructure as Code
+- Kubernetes & Container Platforms
+- Observability
+- SQL Analytics
+- Data Visualisation
+- Infrastructure Monitoring
+- Geospatial Computing
 
 ---
 
 ## Currently Building
 
-I'm continuously developing production-style projects around:
+I’m developing production-style projects that combine:
+
+**Cloud → Infrastructure → Data → Analytics → Business Insights**
+
+and
 
 **AWS → Terraform → Docker → Kubernetes → CI/CD → Observability**
 
-My focus is on understanding not only how applications are built, but also how they are **deployed, automated, secured, monitored, and operated at scale**.
+My goal is to understand the complete lifecycle of modern technology platforms — from infrastructure provisioning and application deployment to **data collection, analysis, visualisation and business decision support**.
 
 ---
 
@@ -164,7 +220,7 @@ My focus is on understanding not only how applications are built, but also how t
 
 **LinkedIn:** [linkedin.com/in/nikunjmirajkar](https://www.linkedin.com/in/nikunjmirajkar/)
 
-**Portfolio:** [nikunjmirkar.com](https://nikunjmirajkar.com/)
+**Portfolio:** [nikunjmirajkar.com](https://nikunjmirajkar.com/)
 
 **Email:** [nikunjmir1506@gmail.com](mailto:nikunjmir1506@gmail.com)
 
@@ -172,8 +228,8 @@ My focus is on understanding not only how applications are built, but also how t
 
 ## Open to Opportunities
 
-I'm interested in opportunities across:
+I’m interested in opportunities across:
 
-**Cloud Engineering • DevOps • Platform Engineering • Infrastructure Engineering • SRE**
+**Cloud Engineering • DevOps • Platform Engineering • Infrastructure Engineering • SRE • Data Analytics • Business Analytics • Cloud Data Engineering**
 
-Based in the UK and open to opportunities where I can contribute to building reliable, automated and scalable cloud platforms.
+Based in the UK and open to roles where I can contribute to building **reliable cloud platforms, automated infrastructure and data-driven solutions**.
